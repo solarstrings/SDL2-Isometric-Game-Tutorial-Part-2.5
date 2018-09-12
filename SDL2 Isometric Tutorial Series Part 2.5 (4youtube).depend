@@ -1,0 +1,87 @@
+# depslib dependency file v1.0
+1514869555 source:d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 2.5 - youtube\initclose.c
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<stdio.h>
+	<stdlib.h>
+	"initclose.h"
+	"renderer.h"
+	"logger.h"
+
+1506963743 d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 2.5 - youtube\initclose.h
+
+1506964373 d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 2.5 - youtube\renderer.h
+
+1514868959 d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 2.5 - youtube\logger.h
+
+1514955146 source:d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 2.5 - youtube\isoengine\isoengine.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"isoEngine.h"
+	"../logger.h"
+	"../renderer.h"
+
+1514955001 d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 2.5 - youtube\isoengine\isoengine.h
+	<SDL2/SDL.h>
+	"isoMap.h"
+
+1514954630 d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 2.5 - youtube\isoengine\isomap.h
+	<SDL2/SDL.h>
+	"../texture.h"
+
+1514905210 d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 2.5 - youtube\texture.h
+
+1514956514 source:d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 2.5 - youtube\isotutorialpart2.c
+	<SDL2/SDL.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"initclose.h"
+	"renderer.h"
+	"texture.h"
+	"IsoEngine/isoEngine.h"
+	"logger.h"
+
+1514869528 source:d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 2.5 - youtube\renderer.c
+	<SDL2/SDL.h>
+	<stdio.h>
+	<stdlib.h>
+	"renderer.h"
+	"logger.h"
+
+1514905203 source:d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 2.5 - youtube\texture.c
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<stdio.h>
+	<stdlib.h>
+	"IsoEngine/isoEngine.h"
+	"renderer.h"
+	"texture.h"
+	"logger.h"
+
+1514906562 source:d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 2.5 - youtube\isoengine\isomap.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<math.h>
+	"isoEngine.h"
+	"isoMap.h"
+	"../texture.h"
+	"../logger.h"
+
+1514868927 source:d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 2.5 - youtube\logger.c
+	<stdio.h>
+	"logger.h"
+
+1514956514 source:d:\programmering\sdl2_isometric tutorial serie\sdl2 isometric game tutorial series part 2.5 - youtube\isotutorialpart2.5.c
+	<SDL2/SDL.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"initclose.h"
+	"renderer.h"
+	"texture.h"
+	"IsoEngine/isoEngine.h"
+	"logger.h"
+
